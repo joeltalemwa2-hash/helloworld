@@ -1,5 +1,4 @@
-
-"""Simple hello program."""
+#Welcome to the Hello World Program
 print("Hello World")
 
 def main() -> None:
