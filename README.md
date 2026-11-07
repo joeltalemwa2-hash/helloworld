@@ -2,13 +2,9 @@
 
 {Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
 
-{Provide a description of your software}
+This is a Hello World program which simply greats the user with a hello message.
 
-{Describe your purpose for creating this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/EWVh8geiuqY)
 
 # Development Environment
 
